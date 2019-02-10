@@ -1,34 +1,11 @@
-# sml_ql
+# SML Query Language
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
+### Run tests
 ```
 npm run test
 ```
 
-### Lints and fixes files
+### Run tests in verbore mode
 ```
-npm run lint
+npm run test:v
 ```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
